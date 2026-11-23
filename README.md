@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center"><img src="assets/design/experience.png" width="100%" alt="Expérience : TDI-services, alternance depuis septembre 2024. Microsoft 365, Hornetsecurity (plus de 200 tenants intégrés), BU IT réseau. Stages : Charente Informatique Diffusion, Leroy-Somer." /></p>
+<p align="center"><img src="assets/design/experience.png" width="100%" alt="Expérience : TDI-services, alternance depuis novembre 2024. Microsoft 365, Hornetsecurity (plus de 200 tenants intégrés), BU IT réseau. Stages : Charente Informatique Diffusion, Leroy-Somer." /></p>
 
 <p align="center"><img src="assets/design/divider.png" width="100%" alt="" /></p>
 
