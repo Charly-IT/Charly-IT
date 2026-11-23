@@ -18,21 +18,7 @@
 
 </div>
 
-## Expérience
-
-### TDI-services · Alternance
-<sub>SEPTEMBRE 2024 → AUJOURD'HUI · BU 365, PUIS BU 365 ET BU IT EN 3<sup>E</sup> ANNÉE</sub>
-
-> **Microsoft 365**
-> Administration et sécurisation de tenants clients : Entra ID, MFA et Passkey, accès conditionnel, Exchange Online (DKIM, DMARC), Teams, SharePoint, rétention.
-
-> **Hornetsecurity**
-> Intégration récurrente de tenants clients sur 365 Total Protection, **plus de 200 à ce jour**. Configuration de 365 Tenant Manager, 365 Total Backup et de la sécurité des e-mails. Rédaction des procédures de l'équipe.
-
-> **BU IT · Réseaux et infrastructure**
-> Projet client : relevé de l'existant, plan d'adressage IP et VLAN, préconfiguration des switches et du Wi-Fi, bascule sur site avec retour arrière, recette et documentation.
-
-**Stages** · Charente Informatique Diffusion (2023 → 2024 : sauvegarde Datto BCDR, dépannage, réseau) · Leroy-Somer (2023 : helpdesk, installation de serveur, machines virtuelles)
+<p align="center"><img src="assets/design/experience.png" width="100%" alt="Expérience : TDI-services, alternance depuis septembre 2024. Microsoft 365, Hornetsecurity (plus de 200 tenants intégrés), BU IT réseau. Stages : Charente Informatique Diffusion, Leroy-Somer." /></p>
 
 <p align="center"><img src="assets/design/divider.png" width="100%" alt="" /></p>
 
@@ -49,16 +35,7 @@
 
 *Systems and network administration apprentice at **TDI-services**, focused on **Microsoft 365**, **email security** and **networking**. **Hornetsecurity Certified Engineer** · CESI Angoulême.*
 
-### Experience
-
-**TDI-services · Apprenticeship** (September 2024 → present · BU 365, then BU 365 and IT BU in the 3rd year)
-
-- **Microsoft 365**: administration and hardening of customer tenants (Entra ID, MFA and Passkey, conditional access, Exchange Online DKIM / DMARC, Teams, SharePoint, retention).
-- **Hornetsecurity**: recurring onboarding of customer tenants onto 365 Total Protection, over 200 so far; 365 Tenant Manager, 365 Total Backup and email security setup; team procedures.
-- **IT BU · Networks and infrastructure**: customer project from site survey, IP and VLAN plan, switch and Wi-Fi pre-configuration to on-site cutover with rollback, acceptance and documentation.
-
-**Internships**: Charente Informatique Diffusion (Datto BCDR backup, repair, networking) · Leroy-Somer (helpdesk, server installation, virtual machines).
-
+<p align="center"><img src="assets/design/experience-en.png" width="100%" alt="Experience at TDI-services and internships" /></p>
 <p align="center"><img src="assets/design/education.png" width="100%" alt="Education and certification" /></p>
 <p align="center"><img src="assets/design/skills.png" width="100%" alt="Technical skills" /></p>
 
