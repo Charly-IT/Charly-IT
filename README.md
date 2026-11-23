@@ -4,7 +4,7 @@
 
 # Charly Malaquis Dutin
 
-**Alternant administrateur systèmes et réseaux** · TDI-services
+**Alternant administrateur systèmes et réseaux** · TDI-services<br/>
 Nouvelle-Aquitaine, France
 
 [LinkedIn](https://www.linkedin.com/in/charly-malaquis-dutin-4028ab291) · [Portfolio](https://charly-it.github.io) · [Charly.it@icloud.com](mailto:Charly.it@icloud.com)
